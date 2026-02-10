@@ -1,5 +1,10 @@
-__pycache__/
+AIML Dataset.csv
+.ipynb_checkpoints/
+*.pkl
 *.pkl
 *.joblib
 .ipynb_checkpoints/
 .venv/
+AIML Dataset.csv
+.ipynb_checkpoints/
+*.pkl
